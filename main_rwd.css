@@ -181,7 +181,6 @@ a:focus{
   position: absolute;
   background-color:black;
   min-width: 160px;
-   width: 18.8%;
   box-shadow: 0em 0.5em 1em 0em rgba(0,0,0,0.2);
   z-index: 1;
 }
@@ -194,6 +193,7 @@ a:focus{
   text-decoration:none;
   display: block;
  min-width: 160px;
+    width: 18.8%;
   text-align: center;
     
 }
