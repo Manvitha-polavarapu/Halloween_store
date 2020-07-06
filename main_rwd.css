@@ -9,7 +9,7 @@ background-image:url(bats.gif);
 .container
 {
 background-color:white;
-width: 95%;
+width: 960px;
 
 margin-left:auto;
 margin-right:auto;
@@ -141,7 +141,7 @@ a:focus{
   color: white;
   text-decoration: none;
   font-size: 17px;
-  width: 20%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+  width: 18.8%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
   text-align: center; /* If you want the text to be centered */
 }
 
@@ -181,6 +181,7 @@ a:focus{
   position: absolute;
   background-color:black;
   min-width: 160px;
+   width: 18.8%;
   box-shadow: 0em 0.5em 1em 0em rgba(0,0,0,0.2);
   z-index: 1;
 }
